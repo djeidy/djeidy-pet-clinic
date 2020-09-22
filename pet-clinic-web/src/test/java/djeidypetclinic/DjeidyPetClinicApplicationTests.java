@@ -1,4 +1,4 @@
-package djeidy.springframework.djeidypetclinic;
+package djeidypetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
